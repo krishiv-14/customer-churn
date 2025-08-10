@@ -4,10 +4,10 @@
 This repository contains the code, research publication, Power BI dashboard, and datasets for the project titled "Predictive Modeling of Customer Churn in the Telecommunication Industry: A Python-Based Approach." The goal of this project is to analyze customer churn using machine learning techniques and provide actionable insights to mitigate churn effectively.
 
 # Project Structure
-Code: Python scripts used for data preprocessing, model building, and evaluation.
-Research Publication: A detailed research paper outlining the methodology, analysis, and findings of the study.
-Power BI Dashboard: Visualizations created to present the key insights and results of the churn analysis.
-Datasets: The raw and processed datasets used for model training and evaluation.
+- Code: Python scripts used for data preprocessing, model building, and evaluation.
+- Research Publication: A detailed research paper outlining the methodology, analysis, and findings of the study.
+- Power BI Dashboard: Visualizations created to present the key insights and results of the churn analysis.
+- Datasets: The raw and processed datasets used for model training and evaluation.
 
 # Methodology
 1. ### Data Cleaning:
